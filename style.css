@@ -1,0 +1,172 @@
+*{
+   margin: 0;
+   padding: 0;
+   text-decoration: none;
+   list-style: none;
+   flex-direction: none;
+   font-family:"Rubik", sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 40px;
+}
+.head_main{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+.head_main a{
+    color: black;
+}
+.head_main a:hover{
+    color:#FF7A50 ;
+    transition: 0.5s;
+}
+.btn{
+    padding: 10px;
+    background-color: #FF7A50;
+    border-radius: 12px;
+    color:white ;
+    width: 100px;
+    text-align: center;
+}
+.btn a{
+    color: white;
+}
+.head_item{
+    display: flex;
+    justify-content: space-around;
+}
+span{
+    color: #FF7A50;
+}
+.left h2{
+    font-size: 66px;
+    padding-top: 150px;
+    padding-bottom: 20px;
+}
+.left p{
+    font-size: 20px;
+    color: #363853;
+    padding-bottom: 40px;
+    line-height: 35px;
+}
+.right img{
+    margin-top: 80px;
+}
+.sh{
+    display: flex;
+    justify-content: space-around;
+}
+span{
+    color: #FF7A50;
+}
+.chap img{
+    margin-top: 80px;
+}
+.ong h2{
+    font-size: 66px;
+    padding-top: 150px;
+    padding-bottom: 20px;
+}
+.ong p{
+    font-size: 20px;
+    color: #363853;
+    padding-bottom: 40px;
+    line-height: 35px;
+}
+.button{
+    padding: 10px;
+    background-color: #FF7A50;
+    border-radius: 12px;
+    color:white ;
+    width: 100px;
+    text-align: center;
+}
+.button a{
+    color: white;
+}
+.shaxzo h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+span h1{
+    color: #FF7A50;
+}
+.pizzas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-left: 20px;
+    gap: 200px;
+}
+.aya{
+    display: flex;
+    justify-content: space-around;
+}
+span{
+    color: #FF7A50;
+}
+.levo h2{
+    font-size: 66px;
+    padding-top: 150px;
+    padding-bottom: 20px;
+}
+.levo p{
+    font-size: 20px;
+    color: #363853;
+    padding-bottom: 40px;
+    line-height: 35px;
+}
+.pravo img{
+    margin-top: 100px;
+}
+.shaxa{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF7A50;
+    color: white;
+    width: 1200px;
+    height: 300px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    flex-direction: column;
+}
+.shaxa h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+}
+.input{
+    width:838.5px;
+    height: 78px;
+    border: 15px;
+    border-radius: 70px;
+    padding-left: 30px;
+    justify-content: flex-start;
+    font-size: 20px;
+    padding-right: 10px;
+    display: flex;
+    color: black;
+}
+button{
+    width: 191px;
+    height: 59px;
+    background-color:#FF7A50 ;
+    border: 1px solid #FF7A50;
+    border-radius: 30px;
+    color: white;
+    position:relative ;
+    bottom: 68px;
+    right: -320px;
+}
